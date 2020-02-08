@@ -11,9 +11,12 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Ruta para la pagina de inicio si te haz o no loggeado
+Route::view('/', 'welcome');
+//Ruta para ver la pantalla de quienes somos
+Route::view('/quienes_somos', 'quienes-somos');
+//Ruta para ver la pantalla de contactos
+Route::view('/contactos', 'contacto');
 
 Auth::routes();
 
