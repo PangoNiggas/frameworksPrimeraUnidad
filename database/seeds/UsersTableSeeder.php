@@ -20,10 +20,10 @@ class UsersTableSeeder extends Seeder
         $admin->save();
 
         $buyer = new User();
-        $admin->name = "Ricardo";
-        $admin->username = "comprador";
-        $admin->email = "0.ricardogonzalez.0@gmail.com";
-        $admin->password = bcrypt('comprador');
-        $admin->save();
+        $buyer->name = "Ricardo";
+        $buyer->username = "comprador";
+        $buyer->email = "0.ricardogonzalez.0@gmail.com";
+        $buyer->password = bcrypt('comprador');
+        $buyer->save();
     }
 }
