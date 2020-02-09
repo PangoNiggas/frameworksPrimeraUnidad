@@ -18,6 +18,6 @@ Route::view('/quienes_somos', 'quienes-somos');
 //Ruta para ver la pantalla de contactos
 Route::view('/contactos', 'contacto');
 
-Auth::routes();
+Auth::routes(['register' => false]);
 
 Route::get('/home', 'HomeController@index')->name('home');
