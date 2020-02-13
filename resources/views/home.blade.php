@@ -103,125 +103,174 @@
                           <table class="table table-striped">
                             <thead>
                               <tr>
-                                <th>#</th>
-                                <th>Header</th>
-                                <th>Header</th>
-                                <th>Header</th>
-                                <th>Header</th>
+                                <th>Id Venta</th>
+                                <th>Comprador</th>
+                                <th>Cantidad</th>
+                                <th>Producto</th>
+                                <th>Precio</th>
                               </tr>
                             </thead>
                             <tbody>
                               <tr>
-                                <td>1,001</td>
-                                <td>Lorem</td>
-                                <td>ipsum</td>
-                                <td>dolor</td>
-                                <td>sit</td>
+                                <td>01</td>
+                                <td>Maria</td>
+                                <td>1</td>
+                                <td>Xbox 360 Slim</td>
+                                <td>$1,950</td>
+                              </tr>
+                               <tr>
+                                <td>02</td>
+                                <td>Jose</td>
+                                <td>1</td>
+                                <td>Sony PlayStation 4 Slim 1TB</td>
+                                <td>$9,599</td>
+                              </tr>
+                                <tr>
+                                <td>03</td>
+                                <td>Sebastian</td>
+                                <td>3</td>
+                                <td>Nintendo Switch 32GB</td>
+                                <td>$7,376.99</td>
                               </tr>
                               <tr>
-                                <td>1,002</td>
-                                <td>amet</td>
-                                <td>consectetur</td>
-                                <td>adipiscing</td>
-                                <td>elit</td>
+                                <td>04</td>
+                                <td>Sofia</td>
+                                <td>2</td>
+                                <td>Sony PlayStation 4 Slim 1TB</td>
+                                <td>$9,599</td>
                               </tr>
                               <tr>
-                                <td>1,003</td>
-                                <td>Integer</td>
-                                <td>nec</td>
-                                <td>odio</td>
-                                <td>Praesent</td>
+                                <td>05</td>
+                                <td>Ricardo</td>
+                                <td>3</td>
+                                <td>Xbox 360 Slim</td>
+                                <td>$1,950</td>
                               </tr>
                               <tr>
-                                <td>1,003</td>
-                                <td>libero</td>
-                                <td>Sed</td>
-                                <td>cursus</td>
-                                <td>ante</td>
+                                <td>06</td>
+                                <td>Ramiro</td>
+                                <td>2</td>
+                                <td>Sony PlayStation 4 Slim 1TB</td>
+                                <td>$9,599</td>
                               </tr>
                               <tr>
-                                <td>1,004</td>
-                                <td>dapibus</td>
-                                <td>diam</td>
-                                <td>Sed</td>
-                                <td>nisi</td>
+                                <td>07</td>
+                                <td>Guillermo</td>
+                                <td>1</td>
+                                <td>Videojuegos Sony Playstation Ps One</td>
+                                <td>$16,245.39</td>
                               </tr>
                               <tr>
-                                <td>1,005</td>
-                                <td>Nulla</td>
-                                <td>quis</td>
-                                <td>sem</td>
-                                <td>at</td>
+                                <td>08</td>
+                                <td>Eduardo</td>
+                                <td>2</td>
+                                <td>Nintendo Switch 32GB</td>
+                                <td>$7,376.99</td>
                               </tr>
                               <tr>
-                                <td>1,006</td>
-                                <td>nibh</td>
-                                <td>elementum</td>
-                                <td>imperdiet</td>
-                                <td>Duis</td>
+                                <td>09</td>
+                                <td>Alejandro</td>
+                                <td>4</td>
+                                <td>Nintendo Switch 32GB</td>
+                                <td>$7,376.99</td>
                               </tr>
                               <tr>
-                                <td>1,007</td>
-                                <td>sagittis</td>
-                                <td>ipsum</td>
-                                <td>Praesent</td>
-                                <td>mauris</td>
+                                <td>10</td>
+                                <td>Carmen</td>
+                                <td>3</td>
+                                <td>Sony PlayStation 4 Slim 1TB</td>
+                                <td>$9,599</td>
                               </tr>
                               <tr>
-                                <td>1,008</td>
-                                <td>Fusce</td>
-                                <td>nec</td>
-                                <td>tellus</td>
-                                <td>sed</td>
+                                <td>11</td>
+                                <td>Joe</td>
+                                <td>1</td>
+                                <td>Videojuegos Sony Playstation Ps One</td>
+                                <td>$16,245.39</td>
                               </tr>
                               <tr>
-                                <td>1,009</td>
-                                <td>augue</td>
-                                <td>semper</td>
-                                <td>porta</td>
-                                <td>Mauris</td>
+                                <td>12</td>
+                                <td>Ana</td>
+                                <td>4</td>
+                                <td>Nintendo Switch 32GB</td>
+                                <td>$7,376.99</td>
                               </tr>
                               <tr>
-                                <td>1,010</td>
-                                <td>massa</td>
-                                <td>Vestibulum</td>
-                                <td>lacinia</td>
-                                <td>arcu</td>
+                                <td>13</td>
+                                <td>Emily</td>
+                                <td>1</td>
+                                <td>Xbox 360 Slim</td>
+                                <td>$1,950</td>
                               </tr>
                               <tr>
-                                <td>1,011</td>
-                                <td>eget</td>
-                                <td>nulla</td>
-                                <td>Class</td>
-                                <td>aptent</td>
+                                <td>14</td>
+                                <td>Jack</td>
+                                <td>2</td>
+                                <td>Sony PlayStation 4 Slim 1TB</td>
+                                <td>$9,599</td>
                               </tr>
                               <tr>
-                                <td>1,012</td>
-                                <td>taciti</td>
-                                <td>sociosqu</td>
-                                <td>ad</td>
-                                <td>litora</td>
+                                <td>15</td>
+                                <td>Joy</td>
+                                <td>2</td>
+                                <td>Videojuegos Sony Playstation Ps One</td>
+                                <td>$16,245.39</td>
                               </tr>
                               <tr>
-                                <td>1,013</td>
-                                <td>torquent</td>
-                                <td>per</td>
-                                <td>conubia</td>
-                                <td>nostra</td>
+                                <td>16</td>
+                                <td>Marcus</td>
+                                <td>1</td>
+                                <td>Xbox 360 Slim</td>
+                                <td>$1,950</td>
                               </tr>
                               <tr>
-                                <td>1,014</td>
-                                <td>per</td>
-                                <td>inceptos</td>
-                                <td>himenaeos</td>
-                                <td>Curabitur</td>
+                                <td>17</td>
+                                <td>Joseph</td>
+                                <td>1</td>
+                                <td>Nintendo Switch 32GB</td>
+                                <td>$7,376.99</td>
                               </tr>
                               <tr>
-                                <td>1,015</td>
-                                <td>sodales</td>
-                                <td>ligula</td>
-                                <td>in</td>
-                                <td>libero</td>
+                                <td>18</td>
+                                <td>Andre</td>
+                                <td>5</td>
+                                <td>Nintendo Switch 32GB</td>
+                                <td>$7,376.99</td>
+                              </tr>
+                              <tr>
+                                <td>19</td>
+                                <td>Daniel</td>
+                                <td>2</td>
+                                <td>Sony PlayStation 4 Slim 1TB</td>
+                                <td>$9,599</td>
+                              </tr>
+                              <tr>
+                                <td>20</td>
+                                <td>Vanessa</td>
+                                <td>5</td>
+                                <td>Xbox 360 Slim</td>
+                                <td>$1,950</td>
+                              </tr>
+                              <tr>
+                                <td>21</td>
+                                <td>Austin</td>
+                                <td>1</td>
+                                <td>Videojuegos Sony Playstation Ps One</td>
+                                <td>$16,245.39</td>
+                              </tr>
+                              <tr>
+                                <td>22</td>
+                                <td>Yuko</td>
+                                <td>2</td>
+                                <td>Nintendo Switch 32GB</td>
+                                <td>$7,376.99</td>
+                              </tr>
+                              <tr>
+                                <td>23</td>
+                                <td>Isabella</td>
+                                <td>2</td>
+                                <td>Sony PlayStation 4 Slim 1TB</td>
+                                <td>$9,599</td>
                               </tr>
                             </tbody>
                           </table>
